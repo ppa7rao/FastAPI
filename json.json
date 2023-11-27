@@ -1,0 +1,20 @@
+{
+    "name": "Milk",
+    "price": 0.65,
+    "brand": "Mimosa"
+},
+{
+    "name": "Milk",
+    "price": 0.95,
+    "brand": "Matinal"
+},
+{
+    "name": "Bread",
+    "price": 1.50,
+    "brand": "Mercadona"
+},
+{
+    "name": "Bread",
+    "price": 1.05,
+    "brand": "Bimbo"
+}
